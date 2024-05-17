@@ -19,11 +19,15 @@ public class Loginn {
 
 @FindBy(xpath = "//input[@class='email']")
 WebElement email;
+// This is findby elementss
 
 @FindBy(xpath ="//input[@class='password']" )
 WebElement pass;
+///////////////////////////forgit////////////
+@FindBy(xpath ="//input[@class='password']" )
+WebElement pass;
 
-
+/////////////////for git/////////////////////////
 
 
 @FindBy(xpath ="//button[@type='submit']" )
